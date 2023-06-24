@@ -1,0 +1,4 @@
+﻿Romuvos mokykla
+Garis Noreris; 20; 1.77;
+Alfonsas Alfonsaitis; 27; 1.96;
+Algis Algaitis; 18; 1.73;

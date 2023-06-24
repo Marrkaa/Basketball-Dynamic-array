@@ -1,0 +1,43 @@
+Tuščias duomenų failas!
+Klaida duomenyse!
+
+ Vaižganto mokykla
+--------------------------------------
+ Nr. Pavardė ir vardas   Amžius  Ūgis 
+--------------------------------------
+  1 Antanas Antanaitis     19    1.96
+  2 Jonas Jonaitis         24    2.00
+  3 Petras Petraitis       21    1.69
+  4 Kestas Kestaitis       30    2.07
+--------------------------------------
+
+Vaižganto mokykla žaidėjų vidutinis amžius ir ūgis:
+24 metai, 1.93 metrai
+
+ Naujai suformuotas žaidėjų sąrašas
+--------------------------------------
+ Nr. Pavardė ir vardas   Amžius  Ūgis 
+--------------------------------------
+  1 Kestas Kestaitis       30    2.07
+  2 Jonas Jonaitis         24    2.00
+  3 Antanas Antanaitis     19    1.96
+--------------------------------------
+
+
+ Surikiuotas rezultatų sąrašas
+--------------------------------------
+ Nr. Pavardė ir vardas   Amžius  Ūgis 
+--------------------------------------
+  1 Antanas Antanaitis     19    1.96
+  2 Jonas Jonaitis         24    2.00
+  3 Kestas Kestaitis       30    2.07
+--------------------------------------
+
+
+ Surikiuotas rezultatų sąrašas su išmestais žaidėjais
+--------------------------------------
+ Nr. Pavardė ir vardas   Amžius  Ūgis 
+--------------------------------------
+  1 Antanas Antanaitis     19    1.96
+--------------------------------------
+

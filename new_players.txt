@@ -1,0 +1,5 @@
+﻿Vaižganto mokykla
+Antanas Antanaitis; 19; 1.96;
+Jonas Jonaitis; 24; 2.00;
+Petras Petraitis; 21; 1.69;
+Kestas Kestaitis; 30; 2.07;
